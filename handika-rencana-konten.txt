@@ -3,7 +3,9 @@ Rencana Konten Handika
 - Javascript
   * ES6
   * Framworks Javascript
-- Struktur Data Dasar
+    ^ Angular
+    ^ React
 - PHP Frameworks
+  ^ Laravel
 - Interview
 - Vlogs
