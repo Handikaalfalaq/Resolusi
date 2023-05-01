@@ -1,6 +1,8 @@
 Rencana Konten Handika
 
 - Javascript
+  * ES6
+  * Framworks Javascript
 - PHP Frameworks
 - Interview
 - Vlogs
